@@ -31,11 +31,6 @@ Healthcare facilities can use these insights to:
 4. **Dimensionality Reduction**: Applied t-SNE to visualize high-dimensional data in 2D
 5. **Cluster Analysis**: Explored relationships between cluster labels and categorical variables
 
-## Repository Contents
-- `medical_readmission_analysis.ipynb`: Jupyter notebook containing the complete analysis
-- `medical_clean.csv`: Dataset used for analysis (if you can include this)
-- Images/: Directory containing key visualizations (if applicable)
-
 ## Future Work
 - Apply hierarchical clustering techniques that don't favor uniform cluster sizes
 - Incorporate categorical variables directly into the clustering process
